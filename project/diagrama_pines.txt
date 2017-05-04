@@ -1,0 +1,11 @@
+	* CANAL 1 PWM: PTC0 - pin 13 (impar)
+	* CANAL 2 PWM: PTC1 - pin 15 (impar)
+	* CANAL 3 PWM: PTB4 - pin 19 (impar)
+	* CANAL 4 PWM: PTA1 - pin 16 (par)
+****************************************************************
+	* SHARP: PTB3 - pin 17 (impar)
+	* SEÑAL DE CRUCE: PTA0 - pin 14 (par)
+	* BOBINA 1: PTF0 - pin18 (par)
+	* BOBINA 2: PTF1 - pin20 (par)
+	* TSOP: PTA3 - pin11 (impar)
+****************************************************************
